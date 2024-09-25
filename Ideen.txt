@@ -1,8 +1,8 @@
-1. Eine Art Sensor, der bei drücken oder Bewegung (Fall oder ungewöhnliche Bewegung) einen Alarm ausgibt (Diesen an 112 oder Pfleger senden)
-  a. Diese können antworten und bei Bedarf Hilfe senden
-  b. Vitalarmband (Bei Herz, Kreislauf oder ähnlichen Problemen reagiert)
+A type of sensor that triggers an alarm when pressed or in case of motion (such as a fall or unusual movement) (to send this to 112 or a caregiver)
+- They can respond and send help if needed
+- Vital wristband (reacts to heart, circulatory, or similar issues)
 
-2. Bewegung Sensor für Licht (Bei Bewegung = an, Ohne Bewegung = aus)
+Motion sensor for lights (On when motion is detected, off when no motion is detected)
 
-3. Chip für anmelden Zuhause, damit die Alarme ab dem Punkt gesendet werden können
-  a. Vitalarmband kann auch als Schlüssel gelten
+Chip for registering at home, so alarms can be sent from that point onward
+- The vital wristband can also serve as a key
