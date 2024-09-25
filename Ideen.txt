@@ -1,0 +1,8 @@
+1. Eine Art Sensor, der bei drücken oder Bewegung (Fall oder ungewönliche Bewegung) einen Alarm ausgibt (Diesen an 112 oder Pfleger senden)
+  a. Diese können antworten und bei Bedarf Hilfe senden
+  b. Vitalarmband (Bei Herz, Kreislauf oder ähnlichen Problemen reagiert)
+
+2. Bewegungsesensor für Licht (Bei Bewegung = an, Ohne Bewegung = aus)
+
+3. Chip für anmelden Zuhause, damit die Alarme ab dem Punkt gesendet werden können
+  a. Vitalarmband kann auch als Schlüssel gelten
