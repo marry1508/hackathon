@@ -1,8 +1,4 @@
 A type of sensor that triggers an alarm when pressed or in case of motion (such as a fall or unusual movement) (to send this to 112 or a caregiver)
 - They can respond and send help if needed
 - Vital wristband (reacts to heart, circulatory, or similar issues)
-
-Motion sensor for lights (On when motion is detected, off when no motion is detected)
-
-Chip for registering at home, so alarms can be sent from that point onward
-- The vital wristband can also serve as a key
+- 
