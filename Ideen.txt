@@ -1,4 +1,4 @@
-A type of sensor that triggers an alarm when pressed or in case of motion (such as a fall or unusual movement) (to send this to 112 or a caregiver)
+Base station and watch thatdetects fast/unusual movement and heart rate
+
+Sends an alarm to choosen contacts, care givers or 112
 - They can respond and send help if needed
-- Vital wristband (reacts to heart, circulatory, or similar issues)
-- 
