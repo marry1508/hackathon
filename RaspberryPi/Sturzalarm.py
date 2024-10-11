@@ -1,5 +1,7 @@
 import RPi.GPIO as GPIO
 import time
+from datetime import datetime
+import paho.mqtt.client as mqtt
 
 # Definieren der verwendeten GPIO Pins
 tapPin = 11
@@ -29,6 +31,23 @@ GPIO.setup(tapPin, GPIO.IN)
 GPIO.setup(buttonPin, GPIO.IN)
 GPIO.setup(ledPin, GPIO.OUT, initial=GPIO.LOW)
 print("Konfig fertig")
+
+# Variablen zum Versenden der Message per MQTT
+username = "Herbert"
+now = datetime.now()
+dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+MQTT_HOST = "192.168.178.66" #Muss entsprechend angepasst werden
+MQTT_PORT = 1883
+MQTT_KEEPALIVE_INTERVAL = 5
+MQTT_TOPIC = "Sturzalarm"
+MQTT_MSG = dt_string + " " + username + " ist gerade gestuerzt"
+
+# Schickt eine Meldung, dass Person gestuerzt ist an andere Geraete
+def sturzmeldungVersenden()
+	mqttc = mqtt.Client()
+	mqttc.connect(MQTT_HOST, MQTT_PORT, MQTT_KEEPALIVE_INTERVAL) 
+	mqttc.publish(MQTT_TOPIC,MQTT_MSG)
+	mqttc.disconnect()
 
 # Die Loop
 while True:
@@ -60,6 +79,7 @@ while True:
 	if alarmTimerStatus == True:
 		if time.time() > alarmTimer + alarmTimerTimeout:
 			GPIO.output(ledPin, GPIO.HIGH)
+			sturzmeldungVersenden()
 		elif time.time() % 1 > 0.5:
 			GPIO.output(ledPin, GPIO.HIGH)
 		else:
