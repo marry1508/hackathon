@@ -15,5 +15,11 @@ school project for hackathon
 ![image](https://github.com/user-attachments/assets/cdcd751d-138e-42d8-90ba-7d2f5ea55388)
 
 # Use-Case-Diagram
+![image](https://github.com/user-attachments/assets/f4dadfbc-46f6-458d-8a18-8728fe1c4f24)
+
+
+# Activity Diagram
+
+# Business Canvas Model
 
 # Our Solution
