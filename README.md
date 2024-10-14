@@ -19,9 +19,20 @@ school project for hackathon
 
 
 # Activity Diagram
+![image](https://github.com/user-attachments/assets/5e4e6f5a-bca3-48b0-90da-35b30aab8ed0)
+
 
 # Business Canvas Model
 ![image](https://github.com/user-attachments/assets/fbdecba2-55cf-4e58-bb61-12466e12aabc)
 
 
 # Our Solution
+There are currently solutions for health tracking and automatic notification of emergency services, alas in some cases, a fall detection can simply be triggered by dropping the device.
+
+To reduce the strain on medical services our solution tries to reduce false alarms regarding emergencies. 
+
+Our device works by first notifying the family / neighbors / people in close proximity, after a fall is detected. The notification can be canceled by the user, if it was not an emergency that required assistance. If a trusted person does not respond to the notification either, the emergency services get notified.
+
+With our solution we are trying to reduce the strain on emergency response services, while improving the health outcomes for our users, since for medical emergencies, the sooner the response, the better the outcome. 
+![image](https://github.com/user-attachments/assets/9a694787-2d66-411c-a87c-0f0dfb595dc6)
+
