@@ -21,5 +21,7 @@ school project for hackathon
 # Activity Diagram
 
 # Business Canvas Model
+![image](https://github.com/user-attachments/assets/fbdecba2-55cf-4e58-bb61-12466e12aabc)
+
 
 # Our Solution
