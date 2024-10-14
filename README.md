@@ -1,6 +1,19 @@
 # hackathon
 school project for hackathon
 
+# Introduction
+We are the Jovamapa GmbH and we specialize in Smart home innovations. To keep pace with the rapid innovations in recent years, we have assembled the brightest minds at our company. Our team cohesion is of utmost importance and helps us stay at the forefront of technological revolution.
+
+We are passionate about making smart home technology accessible and enjoyable for everyone, especially seniors. As a team of dedicated innovators, we’ve assembled a diverse group of experts to develop user-friendly solutions that empower older adults to embrace the digital age.
+
+Our mission is to create a world where all grandparents can feel connected and independent. We understand that navigating new technologies can be challenging, especially for those who didn’t grow up with them. That’s why we strive to design products that are both intuitive and stylish.
+
+With a focus on senior care, we aim to improve the quality of life for older individuals by offering smart solutions that enhance their daily routines and promote a sense of well-being. Our dream is to see homes that enable a long and fulfilling life, free from the limitations of age.
+
+In these recent years, the use of technology has become more prevalent and advanced than ever. As technological frontrunners, we have been taking our dutiful part in this, by coming up with Smart home solutions for people with special needs.
+
+We have observed that Smart home solutions are the field in which most people will see immediate results in technological advancements, hence our enthusiasm for this area. We want people to see the benefits of modern technology, instead of the constant fear mongering. With the offloading of boring and repetitive tasks, people will have more time and freedom to socialize with friends and family. 
+
 # Problem Definition 5Ws
 ![image](https://github.com/user-attachments/assets/8ebde35f-9cae-4aa7-9121-6ccfe0a3c9de)
 
