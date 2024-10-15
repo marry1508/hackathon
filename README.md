@@ -53,3 +53,6 @@ With our solution we are trying to reduce the strain on emergency response servi
 # Idea of product
 ![image](https://github.com/user-attachments/assets/9a694787-2d66-411c-a87c-0f0dfb595dc6)
 
+# Blog
+https://www.designentrepreneurshipworkshop.org/2024/10/11/team-11-case-2-safety-at-home-for-elderly-people/
+
